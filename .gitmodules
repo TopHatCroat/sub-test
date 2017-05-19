@@ -1,0 +1,6 @@
+[submodule "crypto-chat"]
+	path = crypto-chat
+	url = https://github.com/TopHatCroat/crypto-chat
+[submodule "capJavert.github.io"]
+	path = capJavert.github.io
+	url = https://github.com/capJavert/capJavert.github.io
